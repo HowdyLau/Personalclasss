@@ -7,7 +7,7 @@ config config_subscribe
 	option sub_convert '1'
 	option convert_address ''
 	option template '0'
-	option custom_template_url ''
+	option custom_template_url 'https://raw.githubusercontent.com/HowdyLau/Personalclasss/refs/heads/Austin_Wall/Austin_Wall_BasicRules.ini'
 	option emoji 'false'
 	option skip_cert_verify 'false'
 	option sort 'false'
