@@ -31,4 +31,5 @@ DOMAIN-SUFFIX,rei.com
 
 # AI:bard
 DOMAIN-KEYWORD,bard
+DOMAIN-KEYWORD,gemini
 
