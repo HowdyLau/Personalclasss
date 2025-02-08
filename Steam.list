@@ -59,9 +59,9 @@ DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
-IP-CIDR,155.133.225.20/8,🎮 Steam,no-resolve
-IP-CIDR,155.133.224.23/8,🎮 Steam,no-resolve
-IP-CIDR,155.133.225.21/8,🎮 Steam,no-resolve
-IP-CIDR,103.10.125.148/8,🎮 Steam,no-resolve
-IP-CIDR,45.121.184.101/8,🎮 Steam,no-resolve
-IP-CIDR,155.133.224.23/8,🎮 Steam,no-resolve
+IP-CIDR,155.133.225.20/8,🎮 Steam
+IP-CIDR,155.133.224.23/8,🎮 Steam
+IP-CIDR,155.133.225.21/8,🎮 Steam
+IP-CIDR,103.10.125.148/8,🎮 Steam
+IP-CIDR,45.121.184.101/8,🎮 Steam
+IP-CIDR,155.133.224.23/8,🎮 Steam
