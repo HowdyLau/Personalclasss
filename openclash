@@ -345,6 +345,8 @@ config config_subscribe
 	list ex_keyword '官网'
 	list ex_keyword '失败'
 	list ex_keyword 'ipv6'
+	list ex_keyword '最新'
+	list ex_keyword '过期'
 	option convert_address 'https://api.dler.io/sub'
 
 config subscribe_info
