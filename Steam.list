@@ -59,6 +59,8 @@ DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
+DOMAIN-KEYWORD,iracing
+DOMAIN-SUFFIX,iracing.com
 IP-CIDR,155.133.225.20/8,🎮 Steam
 IP-CIDR,155.133.224.23/8,🎮 Steam
 IP-CIDR,155.133.225.21/8,🎮 Steam
