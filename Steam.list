@@ -59,8 +59,6 @@ DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
-DOMAIN-KEYWORD,iracing
-DOMAIN-SUFFIX,iracing.com
 DOMAIN-SUFFIX,garage61.net
 DOMAIN-KEYWORD,garage61
 IP-CIDR,155.133.225.20/8,🎮 Steam
