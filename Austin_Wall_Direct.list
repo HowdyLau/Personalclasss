@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 #talkatone
-DOMAIN-SUFFIX,tktn.at,DIRECT
+DOMAIN-SUFFIX,tktn.at
 
 # MyList
 # 域名后缀匹配
