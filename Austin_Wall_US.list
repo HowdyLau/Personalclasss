@@ -1,8 +1,7 @@
 # 以下规则必须走代理
 
 # talkatone us-sms
-# 第一条登陆用
-DOMAIN-SUFFIX,tktn.at,DIRECT
+# 第一条登陆用DOMAIN-SUFFIX,tktn.at,DIRECT
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,inmobi.com
