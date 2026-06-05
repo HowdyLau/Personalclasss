@@ -6,12 +6,20 @@
 
 # 必留：iRacing本体
 - DOMAIN-SUFFIX,iracing.com,DIRECT,no-resolve
+- DOMAIN-KEYWORD,iracing,DIRECT,no-resolve
 - DOMAIN-SUFFIX,srv.iracing.com,DIRECT,no-resolve
 - DOMAIN-SUFFIX,simresults.com,DIRECT,no-resolve
+- DOMAIN-KEYWORD,simresults,DIRECT,no-resolve
 - DOMAIN-SUFFIX,simgateway.com,DIRECT,no-resolve
+- DOMAIN-KEYWORD,simgateway,DIRECT,no-resolve
 
 # iRacing美东自建房精准IP段（实测有效）
 - IP-CIDR,69.16.32.0/19,DIRECT
 - IP-CIDR,69.16.0.0/16,DIRECT
 # 备用老服段
 - IP-CIDR,208.79.144.0/22,DIRECT
+
+
+#csgo
+- DOMAIN-KEYWORD,hltv,DIRECT,no-resolve
+- DOMAIN-SUFFIX,hltv.com,DIRECT,no-resolve
