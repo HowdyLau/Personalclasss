@@ -1,0 +1,29 @@
+# 以下规则必须走代理
+
+# talkatone us-sms
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ifconfig.me
+
+# outdoor gearlab
+DOMAIN-SUFFIX,gearlab.com
+DOMAIN-SUFFIX,outdoorgearlab.com
+DOMAIN-KEYWORD,outdoorgearlab
+DOMAIN-KEYWORD,gearlab
+
+# rei.com
+DOMAIN-SUFFIX,rei.com
+
+# AI:bard
+DOMAIN-KEYWORD,bard
+DOMAIN-KEYWORD,gemini
+
