@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,discordcdn.com
 DOMAIN-SUFFIX,discordmerch.com
 DOMAIN-SUFFIX,discordpartygames.com
 DOMAIN-SUFFIX,discordsays.com
+
+DOMAIN-KEYWORD,twitch
+DOMAIN-SUFFIX,twitch.com
