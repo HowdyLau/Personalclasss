@@ -4,13 +4,13 @@
 # DOMAIN-SUFFIX: 2
 # TOTAL: 4
 
-- DOMAIN-SUFFIX,iracing.com
-- DOMAIN-KEYWORD,iracing
-- DOMAIN-SUFFIX,srv.iracing.com
-- DOMAIN-SUFFIX,simresults.com
-- DOMAIN-KEYWORD,simresults
-- DOMAIN-SUFFIX,simgateway.com
-- DOMAIN-KEYWORD,simgateway
+DOMAIN-SUFFIX,iracing.com
+DOMAIN-KEYWORD,iracing
+DOMAIN-SUFFIX,srv.iracing.com
+DOMAIN-SUFFIX,simresults.com
+DOMAIN-KEYWORD,simresults
+DOMAIN-SUFFIX,simgateway.com
+DOMAIN-KEYWORD,simgateway
 
 # 必留：iRacing本体
 #- DOMAIN-SUFFIX,iracing.com,DIRECT,no-resolve
@@ -22,10 +22,10 @@
 #- DOMAIN-KEYWORD,simgateway,DIRECT,no-resolve
 
 # iRacing美东自建房精准IP段（实测有效）
-#- IP-CIDR,69.16.32.0/19,DIRECT
-#- IP-CIDR,69.16.0.0/16,DIRECT
+IP-CIDR,69.16.32.0/19
+IP-CIDR,69.16.0.0/16
 # 备用老服段
-#- IP-CIDR,208.79.144.0/22,DIRECT
+IP-CIDR,208.79.144.0/22
 
 
 #csgo
