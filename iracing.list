@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,simresults.com
 DOMAIN-KEYWORD,simresults
 DOMAIN-SUFFIX,simgateway.com
 DOMAIN-KEYWORD,simgateway
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,sentry
 
 # 必留：iRacing本体
 #- DOMAIN-SUFFIX,iracing.com,DIRECT,no-resolve
